@@ -5,6 +5,8 @@ website:
   title: "依然在路上"
   site-url: yiranyiran.netlify.app
   description: "This is Yiran's personal blog"
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by Denise Yiran Zheng. License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
   navbar:
     right:
       - text: Blog
