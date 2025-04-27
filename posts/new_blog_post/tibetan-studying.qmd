@@ -1,0 +1,46 @@
+---
+title: "Tibetan Studies"
+date: '2025-04-27'
+categories: ['language', 'Tibetan']
+description: 'In this post, I will document how I learn Tibetan.'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+# 藏語學習
+
+今年2025四月開始學習藏語，以下紀錄我所用到的學習資源和對我來説有用的學習方法。 
+
+## study schedule
+
+### 第一個星期: 30个輔音字母
+
+要多聼每個字母的發音，邊聽邊大聲跟讀（一定要大聲，這樣容易記住也可以聽聽自己的發音對不對）
+
+剛開始會感覺很難，特別是ང的發音，對我最有幫助的這個字母的發音解釋是 "sing" 裏面的 "-ng" 音 + a (nga)，多練就可以發對音了！
+
+用到的資源：
+1) 丹增南卓仁波切教的[第 1 堂｜基礎藏語班](https://youtu.be/8_wjc-9urtk?si=450FdaXan1huZGMG)
+
+2) 寫字母 (writing alphabets) 
+a) [視頻](https://youtu.be/l-NVJdo_jfs?t=366) 
+b) [網站](https://web.archive.org/web/20130128174741/https://sites.google.com/site/chrisfynn2/home/tibetanscriptfonts/howtowritethetibetanscript)
+
+3) [基本拼音](https://buddhism.lib.ntu.edu.tw/lesson/tibet/lesson_tibet02.jsp#4) |  臺大佛學數位圖書館 
+
+4) 每天看一個藏語視頻 — 丹達讀逗4分鐘藏語教室 (can also be used for English speakers): https://youtube.com/playlist?list=PLB3W-1GsVMGDLvdC0l8-cZPbh7blBhU6c&si=47OQF_s6UB0HoDlB
+
+English sources:
+- [Unit 1: The alphabet](https://tibetanlanguage.school/learn/standard-tibetan/unit-1/) | Tibetan Language School
+
+### 第二個星期: 复习輔音字母，元音符號
+
+1) 丹增南卓仁波切教的[第二堂基礎藏語班](https://youtu.be/Gzv5tLOQTWc?si=63RcPU6YcCp17Crb)  
+2) 藏語[四元音](https://youtube.com/playlist?list=PLq5rrkU-Q2F05_BEGkVlIgOJeYyyuXZ48&si=g9fPVuAmIvMZb9gb) 
+
+### 第三個星期: 
+
+

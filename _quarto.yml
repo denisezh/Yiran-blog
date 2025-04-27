@@ -3,13 +3,14 @@ project:
 
 website:
   title: "依然在路上"
+  site-url: yiranyiran.netlify.app
+  description: "This is Yiran's personal blog"
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+        href: blog.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/denisezh
 format:
   html:
     theme: 
