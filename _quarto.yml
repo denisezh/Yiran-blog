@@ -12,10 +12,12 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: morph
+      dark: cyborg
     css: styles.css
+    fontsize: 1.1em
+    linestretch: 1.7
 
 editor: visual
 
