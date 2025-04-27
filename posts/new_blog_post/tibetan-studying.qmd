@@ -2,7 +2,7 @@
 title: "Tibetan Studies"
 date: '2025-04-27'
 categories: ['language', 'Tibetan']
-description: 'In this post, I will document how I learn Tibetan.'
+description: 'In this post, I will document how I learn Tibetan'
 execute: 
   message: false
   warning: false
@@ -16,7 +16,7 @@ editor_options:
 
 ## study schedule
 
-### 第一個星期: 30个輔音字母
+### week 1: 30个輔音字母
 
 要多聼每個字母的發音，邊聽邊大聲跟讀（一定要大聲，這樣容易記住也可以聽聽自己的發音對不對）
 
@@ -36,11 +36,11 @@ b) [網站](https://web.archive.org/web/20130128174741/https://sites.google.com/
 English sources:
 - [Unit 1: The alphabet](https://tibetanlanguage.school/learn/standard-tibetan/unit-1/) | Tibetan Language School
 
-### 第二個星期: 复习輔音字母，元音符號
+### week 2: 复习輔音字母，元音符號
 
 1) 丹增南卓仁波切教的[第二堂基礎藏語班](https://youtu.be/Gzv5tLOQTWc?si=63RcPU6YcCp17Crb)  
 2) 藏語[四元音](https://youtube.com/playlist?list=PLq5rrkU-Q2F05_BEGkVlIgOJeYyyuXZ48&si=g9fPVuAmIvMZb9gb) 
 
-### 第三個星期: 
+### week 3: 
 
 
