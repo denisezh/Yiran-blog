@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Yiran-blog"
+  title: "依然在路上"
   navbar:
     right:
       - about.qmd
