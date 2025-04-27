@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 5541b1b2-e947-4658-a706-12ccc4f015cc
+      url: https://yiranyiran.netlify.app

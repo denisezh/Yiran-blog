@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>yiranyiran.netlify.app/index.html</loc>
-    <lastmod>2025-04-27T11:39:11.602Z</lastmod>
+    <loc>https://dashing-hamster-c27f16.netlify.app/posts/welcome/index.html</loc>
+    <lastmod>2025-04-27T10:21:04.316Z</lastmod>
   </url>
   <url>
-    <loc>yiranyiran.netlify.app/posts/new_blog_post/tibetan-studying.html</loc>
+    <loc>https://dashing-hamster-c27f16.netlify.app/posts/new_blog_post/tibetan-studying.html</loc>
     <lastmod>2025-04-27T12:20:00.375Z</lastmod>
   </url>
   <url>
-    <loc>yiranyiran.netlify.app/blog.html</loc>
+    <loc>https://dashing-hamster-c27f16.netlify.app/blog.html</loc>
     <lastmod>2025-04-27T11:38:41.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dashing-hamster-c27f16.netlify.app/index.html</loc>
+    <lastmod>2025-04-27T11:39:11.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dashing-hamster-c27f16.netlify.app/posts/post-with-code/index.html</loc>
+    <lastmod>2025-04-27T10:21:04.324Z</lastmod>
   </url>
 </urlset>
