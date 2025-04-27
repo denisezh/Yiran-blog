@@ -1,18 +1,15 @@
 ---
-title: "About"
+title: "依然 Yiran"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: instagram
+      href: https://www.instagram.com/yiran__
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://www.linkedin.com/in/denise-zheng-28101b236/
 ---
 
-About this blog
+Hello world. My name is Yiran 依然. I'm a social psychologist and contemplative scientist (research meditation and compassion). I have lived in China and the US (more in the US) and now I'm spending most time in Asia. I also like to take photographs of the moments that touched me.
