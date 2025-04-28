@@ -1,5 +1,5 @@
 ---
-title: "Tibetan Studies"
+title: "藏語 Tibetan Studies"
 date: '2025-04-27'
 categories: ['language', 'Tibetan']
 description: 'In this post, I will document how I learn Tibetan'
