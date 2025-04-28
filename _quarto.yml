@@ -15,9 +15,9 @@ website:
         href: https://github.com/denisezh
 format:
   html:
-    theme: 
-      light: morph
+    theme:
       dark: cyborg
+      light: morph
     css: styles.css
     fontsize: 1.1em
     linestretch: 1.7
