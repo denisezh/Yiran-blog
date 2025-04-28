@@ -10,7 +10,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# publications and op-ed 
+# publications and op-ed
 
 ## 2025
 
@@ -34,7 +34,7 @@ Roy, E., Jaeger, B., Evans, A. M., Turetsky, K. M., O'Shea, B. A., Petersen, M. 
 
 [Bridging differences through contact](https://1990institute.salsalabs.org/1990newsletter_vol4_issue5)
 
-**Zheng, D.**, (2024). [Effects of Mindfulness Training on Prosocial Responses in Intergroup Relations: A Pilot Randomized Controlled Trial] (http://proxy.library.vcu.edu/login?url=https://www.proquest.com/dissertations-theses/effects-mindfulness-training-on-prosocial/docview/3067632825/se-2?accountid=14780)(Publication No. 31239514) [Doctoral dissertation, Virginia Commonwealth University]. ProQuest Dissertations and Theses Global.
+**Zheng, D.**, (2024). \[Effects of Mindfulness Training on Prosocial Responses in Intergroup Relations: A Pilot Randomized Controlled Trial\] (http://proxy.library.vcu.edu/login?url=https://www.proquest.com/dissertations-theses/effects-mindfulness-training-on-prosocial/docview/3067632825/se-2?accountid=14780)(Publication No. 31239514) \[Doctoral dissertation, Virginia Commonwealth University\]. ProQuest Dissertations and Theses Global.
 
 [Where Do the Fresh Graduates Go?](https://1990institute.salsalabs.org/1990newsletter_vol4_issue3)
 
@@ -46,4 +46,4 @@ Roy, E., Jaeger, B., Evans, A. M., Turetsky, K. M., O'Shea, B. A., Petersen, M. 
 
 [How to Take on a Pipeline (and Win)](https://blog.ucsusa.org/science-blogger/how-to-take-on-a-pipeline-and-win/)
 
-**Zheng, D.** (2022). [The role of mindfulness and compassion in parochial empathy and prosocial behavior toward out-groups](https://scholarscompass.vcu.edu/etd/7004/) (Publication No. 29214163) [Master’s thesis, Virginia Commonwealth University]. ProQuest Dissertations and Theses Global.
+**Zheng, D.** (2022). [The role of mindfulness and compassion in parochial empathy and prosocial behavior toward out-groups](https://scholarscompass.vcu.edu/etd/7004/) (Publication No. 29214163) \[Master’s thesis, Virginia Commonwealth University\]. ProQuest Dissertations and Theses Global.

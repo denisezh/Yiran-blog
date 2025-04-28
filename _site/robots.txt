@@ -1,1 +1,1 @@
-Sitemap: https://dashing-hamster-c27f16.netlify.app/sitemap.xml
+Sitemap: yiranyiran.netlify.app/sitemap.xml
