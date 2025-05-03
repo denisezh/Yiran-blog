@@ -7,15 +7,15 @@ website:
   description: "This is Yiran's personal blog"
   page-footer:
     left: |
-      Website made with [Quarto](https://quarto.org/), by Denise Yiran Zheng. 
-      License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+      Website made with [Quarto](https://quarto.org/), by Denise Yiran Zheng.\ 
+      License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)\
       Opinions are my own and do not represent my employer
   navbar:
     right:
       - text: Blog
         href: blog.qmd
       - icon: github
-        href: https://github.com/denisezh
+        href: https://github.com/denisezh/Yiran-blog/
 format:
   html:
     theme:

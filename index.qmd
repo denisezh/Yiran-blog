@@ -1,9 +1,13 @@
 ---
-title: "依然 Yiran"
+title: 
+  "依然 Yiran\ 
+  Denise Zheng, PhD"
 image: profile.jpg
 about:
   template: jolla
   links:
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=wESAiNwAAAAJ&hl=en
     - icon: twitter
       text: instagram
       href: https://www.instagram.com/yiran__
