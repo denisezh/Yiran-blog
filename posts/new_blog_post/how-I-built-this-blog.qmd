@@ -12,7 +12,7 @@ editor_options:
 
 ## how to create a free blog with Quarto?
 
-Welcome to my new blog. Since I finished my doctoral degree, I haven't been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option. 
+Welcome to my new blog. Since I finished my doctoral degree, I haven't been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.
 
 ### resources/guides I followed to create this blog:
 
@@ -26,10 +26,8 @@ Welcome to my new blog. Since I finished my doctoral degree, I haven't been usin
 
 It is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.
 
-### some blogs to check out for insiprations
+### some blogs to check out for inspirations
 
 [Andreas Handel, PhD's blog](https://www.andreashandel.com/)
 
-This is not a blog made using Quarto but a blog that gave me inspiration to the style of blog I want to create and that I find aesthetically pleasing: 
-[jinjin's blog](https://www.jinjinchen.com/)
-
+This is not a blog made using Quarto but a blog that gave me inspiration to the style of blog I want to create and that I find aesthetically pleasing: [jinjin's blog](https://www.jinjinchen.com/)

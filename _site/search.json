@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "yiran",
     "section": "",
-    "text": "社會心理學 social psychology and how I graduated with a PhD in 4 years\n\n\n\n\n\n\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\nhow I built this blog\n\n\n\nR\n\n\n\nIn this post, I include the resources I utilized to build this blog\n\n\n\n\n\nMay 3, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\npublications\n\n\n\nwriting\n\n\n\nIn this post, I list my research work and op-ed essays\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\n藏語 Tibetan Studies\n\n\n\nlanguage\n\nTibetan\n\n\n\nIn this post, I will document how I learn Tibetan\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\nNo matching items"
+    "text": "社會心理學 social psychology and how I graduated with a PhD in 4 years\n\n\n\n\n\n\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\nhow I built this blog\n\n\n\nR\n\n\n\nIn this post, I include the resources I utilized to build this blog\n\n\n\n\n\nMay 3, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\npublications\n\n\n\nwriting\n\n\n\nIn this post, I list my research work and op-ed essays\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\n藏語 Tibetan Studies\n\n\n\nTibetan\n\n\n\nIn this post, I will document how I learn Tibetan\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -81,13 +81,62 @@
     "href": "posts/new_blog_post/how-I-built-this-blog.html",
     "title": "how I built this blog",
     "section": "",
-    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\n\n\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nCreating a blog documentation by Quarto\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD\nBuilding a blog with Quarto by Isabella Velásquez\nIt is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.\n\n\n\nAndreas Handel, PhD’s blog"
+    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\n\n\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nCreating a blog documentation by Quarto\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD\nBuilding a blog with Quarto by Isabella Velásquez\nIt is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.\n\n\n\nAndreas Handel, PhD’s blog\nThis is not a blog made using Quarto but a blog that gave me inspiration to the style of blog I want to create and that I find aesthetically pleasing: jinjin’s blog"
   },
   {
     "objectID": "posts/new_blog_post/how-I-built-this-blog.html#how-to-create-a-free-blog-with-quarto",
     "href": "posts/new_blog_post/how-I-built-this-blog.html#how-to-create-a-free-blog-with-quarto",
     "title": "how I built this blog",
     "section": "",
-    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\n\n\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nCreating a blog documentation by Quarto\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD\nBuilding a blog with Quarto by Isabella Velásquez\nIt is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.\n\n\n\nAndreas Handel, PhD’s blog"
+    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\n\n\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nCreating a blog documentation by Quarto\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD\nBuilding a blog with Quarto by Isabella Velásquez\nIt is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.\n\n\n\nAndreas Handel, PhD’s blog\nThis is not a blog made using Quarto but a blog that gave me inspiration to the style of blog I want to create and that I find aesthetically pleasing: jinjin’s blog"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html",
+    "href": "posts/new_blog_post/why-social-psyc.html",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "",
+    "text": "我從高中就開始對心理學感興趣，修心理學課的時候我頭一次開始向内看，我學到的知識然我更加瞭解自己和理解她人與人類所共享的許多相似的心理需求。\n年少時沒預想到我會一直讀完博士，拿到學位后終於可以稱自己為社會心理學家，所以算完成了我的一大夢想。大二的時候我接觸到了正念冥想，這變成了我的主要研究，同時，我最想要研究的是人們如何能夠無分別心的對外人有同理心并且願幫助TA人。\n\n\n\n就像一個系裏有很多學科，心理學也分幾個不同的方面。大部人想到心理學一般是臨床心理學方面或者心理咨詢。社會心理學 是研究人們的思想，感情，和行爲是怎麽被TA人所影響的。當人們聽到我是學心理學的，很多人會問 “那你知道我現在在想什麽嗎？” 答案是不能。\n我覺得大衆很容易忽視心理學的科學部分。心理學是社會科學，它的基礎是科學的思想和研究。這特別是社會心理學最吸引我的一部分，我的教授們常說任何人們感興趣的東西，社會科學家應該都有研究過（或可以去研究）。\n什麽是科學的思想?"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html#高中種下的種子",
+    "href": "posts/new_blog_post/why-social-psyc.html#高中種下的種子",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "",
+    "text": "我從高中就開始對心理學感興趣，修心理學課的時候我頭一次開始向内看，我學到的知識然我更加瞭解自己和理解她人與人類所共享的許多相似的心理需求。\n年少時沒預想到我會一直讀完博士，拿到學位后終於可以稱自己為社會心理學家，所以算完成了我的一大夢想。大二的時候我接觸到了正念冥想，這變成了我的主要研究，同時，我最想要研究的是人們如何能夠無分別心的對外人有同理心并且願幫助TA人。"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html#社會心理學和人們對科學-還有心理學的誤解",
+    "href": "posts/new_blog_post/why-social-psyc.html#社會心理學和人們對科學-還有心理學的誤解",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "",
+    "text": "就像一個系裏有很多學科，心理學也分幾個不同的方面。大部人想到心理學一般是臨床心理學方面或者心理咨詢。社會心理學 是研究人們的思想，感情，和行爲是怎麽被TA人所影響的。當人們聽到我是學心理學的，很多人會問 “那你知道我現在在想什麽嗎？” 答案是不能。\n我覺得大衆很容易忽視心理學的科學部分。心理學是社會科學，它的基礎是科學的思想和研究。這特別是社會心理學最吸引我的一部分，我的教授們常說任何人們感興趣的東西，社會科學家應該都有研究過（或可以去研究）。\n什麽是科學的思想?"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html#how-to-grad-school",
+    "href": "posts/new_blog_post/why-social-psyc.html#how-to-grad-school",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "how to grad school",
+    "text": "how to grad school"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html#resources-i-found-useful",
+    "href": "posts/new_blog_post/why-social-psyc.html#resources-i-found-useful",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "resources I found useful",
+    "text": "resources I found useful"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html#tools-i-used",
+    "href": "posts/new_blog_post/why-social-psyc.html#tools-i-used",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "tools I used",
+    "text": "tools I used"
+  },
+  {
+    "objectID": "posts/new_blog_post/why-social-psyc.html#what-to-do-with-a-phd-and-different-ways-of-life",
+    "href": "posts/new_blog_post/why-social-psyc.html#what-to-do-with-a-phd-and-different-ways-of-life",
+    "title": "社會心理學 social psychology and how I graduated with a PhD in 4 years",
+    "section": "what to do with a PhD and different ways of life",
+    "text": "what to do with a PhD and different ways of life\nFor me, I never intended to stay in academia and become a professor so I go on a quite nontraditional path during and post-grad school. One of the main reasons why I chose to specialize in social psychology is because I see that it is relevant for everyone and for our daily lives. I want to be able to apply what I learned to have the most impact I could. It makes more sense for me to consider options that is more in the applied field where my work can possibly have influence on education and policy. One event that changed how I proceed with grad school is when I met with two professors at VCU to discuss my interests and they commented that if you want to take the nontraditional route then you cannot follow what everyone else is doing (to become a professor). Thus, I started exploring groups that share my values and vision. Given my research expertise in intergroup relations and my own experience as a Chinese American, I started working with a non-profit org that focuses on promoting the education of Asian American history and constructive US-China relations. I have continued this work along with my wish to alleviate suffering that farmed animals experience, which I worked with another non-profit to promote the education of compassionate and sustainable behavior toward other living beings and the environment."
   }
 ]

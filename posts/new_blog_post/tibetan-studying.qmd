@@ -1,7 +1,7 @@
 ---
 title: "藏語 Tibetan Studies"
-date: '2025-04-27'
-categories: ['language', 'Tibetan']
+date: '2025-05-03'
+categories: ['Tibetan']
 description: 'In this post, I will document how I learn Tibetan'
 execute: 
   message: false
@@ -12,36 +12,74 @@ editor_options:
 
 # 藏語學習
 
-今年2025四月開始學習藏語，以下紀錄我所用到的學習資源和對我來説有用的學習方法。
+今年2025四月開始學習藏語，這裏紀錄我所用到的學習資源和對我來説有用的學習方法。我并不是光靠自學，而是同時有去上課，聼老師的發音和得到糾正是非常重要的。在課下，我會每天發一到三個小時用以下的資源復習并且學習我在課上沒學到的。
 
-## study schedule
+每天學習前可以念文殊菩薩心咒求加持。
 
-### week 1: 30个輔音字母
+All the resources listed below can be used by English speakers to learn Tibetan. For some of them, the teachers teach in Chinese, while some teaches in Tibetan or English (marked with asterisk*). I see these resources as supplemental or for self-study in addition attending in-person classes because it is important to see and hear directly how the teachers pronounce each word and get feedback. 
+
+I usually start each learning session by chanting praise to Manjushri.
+
+
+## 學習資源 | general resources
+
+[藏漢字典](http://www.tibetans.cn/hzhyfull.aspx)
+
+藏英字典 Tibetan - English dictionary 
+
+Monlam app (iphone only) or [website](https://monlamdictionary.com/index.php) (select 3rd option from drop down menu above the search bar for Tibetan to English, 4th option for English to Tibetan
+
+[THL Tibetan to English Translation Tool](https://www.thlib.org/reference/dictionaries/tibetan-dictionary/translate.php)
+
+
+## 學習表 study schedule
+
+### week 1: 30个輔音字母 | Tibetan alphabet (30 consonants)
 
 要多聼每個字母的發音，邊聽邊大聲跟讀（一定要大聲，這樣容易記住也可以聽聽自己的發音對不對）
 
 剛開始會感覺很難，特別是ང的發音，對我最有幫助的這個字母的發音解釋是 "sing" 裏面的 "-ng" 音 + a (nga)，多練就可以發對音了！
 
-用到的資源： 1) 丹增南卓仁波切教的[第 1 堂｜基礎藏語班](https://youtu.be/8_wjc-9urtk?si=450FdaXan1huZGMG)
+第一個星期我學習用的資源：
 
-2)  寫字母 (writing alphabets)
+1) 丹增南卓仁波切教的[第 1 堂｜基礎藏語班](https://youtu.be/8_wjc-9urtk?si=450FdaXan1huZGMG)
 
-<!-- -->
+2)  寫字母 (script writing)
 
-a)  [視頻](https://youtu.be/l-NVJdo_jfs?t=366)
-b)  [網站](https://web.archive.org/web/20130128174741/https://sites.google.com/site/chrisfynn2/home/tibetanscriptfonts/howtowritethetibetanscript)
+  a) [視頻*](https://youtu.be/vl0WoxLsaRg)
 
-<!-- -->
+  b) [網站*](https://web.archive.org/web/20130128174741/https://sites.google.com/site/chrisfynn2/home/tibetanscriptfonts/howtowritethetibetanscript)
 
-3)  [基本拼音](https://buddhism.lib.ntu.edu.tw/lesson/tibet/lesson_tibet02.jsp#4) \| 臺大佛學數位圖書館
+3)  [基本拼音](https://buddhism.lib.ntu.edu.tw/lesson/tibet/lesson_tibet02.jsp#4) - 臺大佛學數位圖書館
 
 4)  每天看一個藏語視頻 — [丹達讀逗4分鐘藏語教室](https://youtube.com/playlist?list=PLB3W-1GsVMGDLvdC0l8-cZPbh7blBhU6c&si=47OQF_s6UB0HoDlB) (can also be used for English speakers)
 
-English sources: - [Unit 1: The alphabet](https://tibetanlanguage.school/learn/standard-tibetan/unit-1/) \| Tibetan Language School
+[Unit 1: The alphabet](https://tibetanlanguage.school/learn/standard-tibetan/unit-1/) \| Tibetan Language School
 
-### week 2: 复习輔音字母，元音符號
+### week 2: 元音符號 | 4 vowels
+繼續多多練習輔音字母，這個星期也開始學習四個元音符號
 
-1)  丹增南卓仁波切教的[第二堂基礎藏語班](https://youtu.be/Gzv5tLOQTWc?si=63RcPU6YcCp17Crb)\
-2)  藏語[四元音](https://youtube.com/playlist?list=PLq5rrkU-Q2F05_BEGkVlIgOJeYyyuXZ48&si=g9fPVuAmIvMZb9gb)
+1)  丹增南卓仁波切教的[第二堂基礎藏語班](https://youtu.be/Gzv5tLOQTWc?si=63RcPU6YcCp17Crb)
 
-### week 3:
+2)  藏語[四元音*](https://youtube.com/playlist?list=PLq5rrkU-Q2F05_BEGkVlIgOJeYyyuXZ48&si=g9fPVuAmIvMZb9gb)
+
+3) 數字1-10
+[丹達讀逗 4分鐘藏語教室 數字篇-1 Number 1-10](https://youtu.be/JKK6Wnfl5OY?si=ceQnPPeucWS-D_w4)
+
+[數字兒歌](https://www.youtube.com/watch?v=_YNLWeBIE5Y&ab_channel=SherigVideo)
+
+### week 3: 上加字，下加字 | superscript, subscript
+
+如果過去兩個星期堅持每天都堅持背誦和默寫30字母的話，這個星期應該所有字母都記的差不多了，這個星期可以繼續複習四元音的發音，和開始學上加字和下加字
+
+讀藏語有點像在做數學的加減乘除，所以**基礎要打好**，記住30個字母以及它們的正確發音是繼續學以下部分的前提，慢慢的我們就可以讀所有看到的藏語字
+
+1）[四元音複習*](https://youtu.be/V6YHceLgwqg?si=MsdtkOCVr98U64ql)
+
+2) [上加字*](https://buddhism.lib.ntu.edu.tw/test_teach/BASIC4-0.HTM)
+上加字是先讀上加字再讀輔音字母，最後讀整個字的音：ང ra + ཀ ga + ད tha = རྐ ga
+
+3) [下加字*](https://youtu.be/cg3EXz8ocvQ?si=UFi6BTgx7qDzenDc)
+下加字是先讀輔音字母的音，再讀下加字，最後讀整個字：ཀ ga + ང ra + ད tha = ཀྲ dra
+
+
