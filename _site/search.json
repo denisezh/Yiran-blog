@@ -25,12 +25,12 @@
     "href": "blog.html",
     "title": "Yiran-blog",
     "section": "",
-    "text": "publications\n\n\n\nwriting\n\n\n\nIn this post, I list my research work and op-ed essays\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\n藏語 Tibetan Studies\n\n\n\nlanguage\n\nTibetan\n\n\n\nIn this post, I will document how I learn Tibetan\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\nNo matching items"
+    "text": "how I built this blog\n\n\n\nR\n\n\n\nIn this post, I include the resources I utilized to build this blog\n\n\n\n\n\nMay 3, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\npublications\n\n\n\nwriting\n\n\n\nIn this post, I list my research work and op-ed essays\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\n藏語 Tibetan Studies\n\n\n\nlanguage\n\nTibetan\n\n\n\nIn this post, I will document how I learn Tibetan\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "依然 YiranDenise Zheng, PhD",
+    "title": "依然 Yiran\nDenise Zheng, PhD",
     "section": "",
     "text": "Hello world. My name is Yiran 依然. I’m a social psychologist and contemplative scientist (research meditation and compassion). I’m Chinese American, lived in China for 9 years and the US for more than 15 years. When I was finishing my PhD in 2024, I decided to live internationally, mostly in Asia. I like to take photographs of the moments that touched me and reflect on things I’m learning so I’m sharing them here."
   },
@@ -75,5 +75,19 @@
     "title": "publications",
     "section": "",
     "text": "How to Take on a Pipeline (and Win)\nZheng, D. (2022). The role of mindfulness and compassion in parochial empathy and prosocial behavior toward out-groups (Publication No. 29214163) [Master’s thesis, Virginia Commonwealth University]. ProQuest Dissertations and Theses Global."
+  },
+  {
+    "objectID": "posts/new_blog_post/how-I-built-this-blog.html",
+    "href": "posts/new_blog_post/how-I-built-this-blog.html",
+    "title": "how I built this blog",
+    "section": "",
+    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\nHere are some resources that I follow to create this blog:\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD"
+  },
+  {
+    "objectID": "posts/new_blog_post/how-I-built-this-blog.html#how-to-create-a-free-blog-with-quarto",
+    "href": "posts/new_blog_post/how-I-built-this-blog.html#how-to-create-a-free-blog-with-quarto",
+    "title": "how I built this blog",
+    "section": "",
+    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\nHere are some resources that I follow to create this blog:\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD"
   }
 ]

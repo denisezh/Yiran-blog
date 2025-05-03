@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/new_blog_post/how-I-built-this-blog.html",
       "/posts/new_blog_post/publications.html",
       "/posts/new_blog_post/tibetan-studying.html"
     ]
