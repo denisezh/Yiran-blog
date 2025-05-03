@@ -1,5 +1,5 @@
 ---
-title: "Yiran-blog"
+title: "yiran"
 listing:
   contents: posts
   sort: "date desc"

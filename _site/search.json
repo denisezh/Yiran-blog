@@ -23,16 +23,16 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Yiran-blog",
+    "title": "yiran",
     "section": "",
-    "text": "how I built this blog\n\n\n\nR\n\n\n\nIn this post, I include the resources I utilized to build this blog\n\n\n\n\n\nMay 3, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\npublications\n\n\n\nwriting\n\n\n\nIn this post, I list my research work and op-ed essays\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\n藏語 Tibetan Studies\n\n\n\nlanguage\n\nTibetan\n\n\n\nIn this post, I will document how I learn Tibetan\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\nNo matching items"
+    "text": "社會心理學 social psychology and how I graduated with a PhD in 4 years\n\n\n\n\n\n\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\nhow I built this blog\n\n\n\nR\n\n\n\nIn this post, I include the resources I utilized to build this blog\n\n\n\n\n\nMay 3, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\npublications\n\n\n\nwriting\n\n\n\nIn this post, I list my research work and op-ed essays\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\n\n\n\n\n\n\n\n藏語 Tibetan Studies\n\n\n\nlanguage\n\nTibetan\n\n\n\nIn this post, I will document how I learn Tibetan\n\n\n\n\n\nApr 27, 2025\n\n\nYiran\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "依然 Yiran\nDenise Zheng, PhD",
     "section": "",
-    "text": "Hello world. My name is Yiran 依然. I’m a social psychologist and contemplative scientist (research meditation and compassion). I’m Chinese American, lived in China for 9 years and the US for more than 15 years. When I was finishing my PhD in 2024, I decided to live internationally, mostly in Asia. I like to take photographs of the moments that touched me and reflect on things I’m learning so I’m sharing them here."
+    "text": "我是依然。1998出生於紐約，小時候在福建長大，然後中學開始在美國讀書一直到快博士畢業。讀博最後一個學期的時候我決定開始旅居，2023年12月我先去了南美洲，然後4月到台灣并在臺南遠程完成社會心理學博士學位論文答辯。在台灣生活的日子讓我意識到我最喜歡在亞洲生活。因爲我的研究跟冥想和慈悲心相關，我開始想深入學習佛學，同時也在印度學藏語和辯經。我會在這個部落格記錄旅途中的聞思修，寫作和攝影。\nHello world. My name is Yiran. I’m a social psychologist and contemplative scientist (research meditation and compassion). I’m Chinese American, lived in China for 9 years and the US for more than 15 years. When I was finishing my PhD in 2024, I decided to live internationally, mostly in Asia. I like to take photographs of the moments that touched me and reflect on things I’m learning so I’m sharing them here."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -81,13 +81,13 @@
     "href": "posts/new_blog_post/how-I-built-this-blog.html",
     "title": "how I built this blog",
     "section": "",
-    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\nHere are some resources that I follow to create this blog:\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD"
+    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\n\n\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nCreating a blog documentation by Quarto\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD\nBuilding a blog with Quarto by Isabella Velásquez\nIt is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.\n\n\n\nAndreas Handel, PhD’s blog"
   },
   {
     "objectID": "posts/new_blog_post/how-I-built-this-blog.html#how-to-create-a-free-blog-with-quarto",
     "href": "posts/new_blog_post/how-I-built-this-blog.html#how-to-create-a-free-blog-with-quarto",
     "title": "how I built this blog",
     "section": "",
-    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\nHere are some resources that I follow to create this blog:\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD"
+    "text": "Welcome to my new blog. Since I finished my doctoral degree, I haven’t been using R as much. So to keep using this skill, I thought I would create a blog using R in a way that is free and open-source. After some searches, I found that Quarto would be the best option.\n\n\nCreating a blog with Quarto in 10 steps by Beatriz Milz, PhD\nCreating a blog documentation by Quarto\nThe ultimate guide to starting a Quarto blog by Albert Rapp, PhD\nBuilding a blog with Quarto by Isabella Velásquez\nIt is worth checking out the Github pages for each of the websites listed above as they contain the codes that can give you ideas on how to format your blog.\n\n\n\nAndreas Handel, PhD’s blog"
   }
 ]
