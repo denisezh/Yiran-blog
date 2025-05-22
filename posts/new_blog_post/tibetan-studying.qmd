@@ -40,6 +40,14 @@ Monlam app (iphone only) or [website](https://monlamdictionary.com/index.php) (s
 
 剛開始會感覺很難，特別是ང的發音，對我最有幫助的這個字母的發音解釋是 "sing" 裏面的 "-ng" 音 + a (nga)，多練就可以發對音了！
 
+一般外國人學藏語是直接學烏金字體，但是藏族小孩一開始是學烏梅字體。我的阿尼朋友們跟我說一般她們寫字都是用烏梅，寫筆記比烏金快。我一開始在寺裡學藏語，老師是教烏梅，然後同時另外自學烏金。我覺得一開始兩個一起學比較有效。
+
+學烏梅可以參考[這本書](https://bodyiglobjong.com/%E0%BD%A6%E0%BE%94%E0%BD%BC%E0%BD%93%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BC%8B%E0%BD%91%E0%BD%BA%E0%BD%96%E0%BC%8D-3/)
+
+[烏梅字體筆畫練習](https://issuu.com/doewebmaster/docs/seru_yigzuag_2017_1_)
+
+我每天一般一半時間練習烏梅，一半練習烏金。學藏語的頭兩個星期我會默寫這兩個字體的30字母，把它們都背下來，然後陸續開始學上加字，後加字等等。對我來說烏梅的上加字和下加字比烏金複雜，我容易搞混（比如說不知道是yata還是rata)，學的時候跟烏金對比會比較好認。
+
 第一個星期我學習用的資源：
 
 1) 丹增南卓仁波切教的[第 1 堂｜基礎藏語班](https://youtu.be/8_wjc-9urtk?si=450FdaXan1huZGMG)
@@ -61,7 +69,7 @@ Monlam app (iphone only) or [website](https://monlamdictionary.com/index.php) (s
 
 1)  丹增南卓仁波切教的[第二堂基礎藏語班](https://youtu.be/Gzv5tLOQTWc?si=63RcPU6YcCp17Crb)
 
-2)  藏語[四元音*](https://youtube.com/playlist?list=PLq5rrkU-Q2F05_BEGkVlIgOJeYyyuXZ48&si=g9fPVuAmIvMZb9gb)
+2)  藏語[四元音 vowels*](https://youtube.com/playlist?list=PLq5rrkU-Q2F05_BEGkVlIgOJeYyyuXZ48&si=g9fPVuAmIvMZb9gb)
 
 3) 數字1-10
 [丹達讀逗 4分鐘藏語教室 數字篇-1 Number 1-10](https://youtu.be/JKK6Wnfl5OY?si=ceQnPPeucWS-D_w4)
@@ -81,5 +89,35 @@ Monlam app (iphone only) or [website](https://monlamdictionary.com/index.php) (s
 
 3) [下加字*](https://youtu.be/cg3EXz8ocvQ?si=UFi6BTgx7qDzenDc)
 下加字是先讀輔音字母的音，再讀下加字，最後讀整個字：ཀ ga + ང ra + ད tha = ཀྲ dra
+
+### week 4: 字母復習，後加字 | reviews, suffix
+
+1) 丹增南卓仁波切 [第 3 堂｜基礎藏語班](https://youtu.be/7MAN3ESqs_I?si=d6hGfnvupIt98a3h)
+
+2) Sambhota Schools*: 
+[ཀ字母單詞 #1](https://youtu.be/3nrUcLhpEA8?si=XSY-KI2I_GJs_G2y)
+[ཅ字母單詞 #2](https://youtu.be/mIdGktdJpro?si=D8fOz9_-_AVOpLxt)
+[ཏ字母單詞 #3](https://youtu.be/YoRvNvhJZ9k?si=fKfMhwDpnMr8mDAO)
+[པ字母單詞 #4](https://youtu.be/wkvNilDHrcc?si=_unEJV-NzHe1GjUZ)
+[ཙ字母單詞 #5](https://youtu.be/xt34bL8prso?si=FBCUVGOZ4NzHHHcE)
+[ཞ字母單詞 #6](https://youtu.be/qww-PVEUklE?si=F7OP1tkk5A4OhnxK)
+
+[ར字母單詞 #7](https://youtu.be/kjhMNQY2oOk?si=30QEfUriokytTTWv)
+
+[ཧ字母單詞 #8](https://youtu.be/NdyuybRAEII?si=vdGaoQa6hpCkq_WP)
+
+3) 下加字復習 Subscript* 
+
+[ཡ་བཏགས་yatag](https://youtu.be/3EkW8a0Z6BA?si=vPmsZs5sm-UMcrnw)
+
+[ར་བཏགས་ratag](https://youtu.be/cQ9vXCJ5YNI?si=9mmCndzsvghmCImW)
+
+[ལ་བཏགས་latag](https://youtu.be/_cVmaJnr0Ko?si=0kyZXIesZrliVmti)
+
+[ཝ་ཟུར་wasur](https://youtu.be/wra0A3szfps?si=fRv-4xwU97HQrNEM)
+
+4) [རྗེས་འཇུག་བཅུ།怎麼讀有後加字的詞 | how to pronounce words with suffix*](https://youtu.be/C_gfM9jVGGM?si=f0qwkv4g1xtFaZLK)
+
+
 
 
