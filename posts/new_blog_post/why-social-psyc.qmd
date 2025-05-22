@@ -1,6 +1,13 @@
 ---
 title: "社會心理學 social psychology and how I graduated with a PhD in 4 years"
-format: html
+date: '2025-05-22'
+categories: ['psychology']
+description: 'In this post, I write about why and how I became a social psychologist'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
 ---
 
 # 爲什麽讀博？爲什麽是社會心理學？
@@ -19,13 +26,19 @@ format: html
 
 什麽是*科學的思想*?
 
-# why a PhD in social psychology？
+對我來説，好的科學家應該以開放的心態去學習，探索未知，和質疑已知。科學是不停更新的，主流理論 （theory) 也有可能被新的研究成果推翻，我們需要靈活的去持續更新自己的認知。所以學心理學并不能一勞永逸。
 
-## how to grad school
+# why a PhD in social psychology？
 
 ## resources I found useful
 
+During the first two years of grad school, I spent some time diving into research such as "how to work efficiently" as productivity was valued highly in grad school. I found one key to "efficiency," and by that I meant working on what I need to get done for the degree while still preserving enough time for doing things that sustain me. In grad school, one can easily revolve one's life to center around research. Therefore, it is important to set a boundary on work time. I find *time blocking* especially useful to structure my work schedule for the weekdays. At the beginning of each semester, I will go over the syllabus for each class, and put in the deadlines for exams and assignments into the calendar. Additionally, I will also block out time slots preceding those deadlines of what I think approximately will take me to complete to assignment or studies. I will also put into calendar major research phases such as study design and data analysis. Once a week (I did Friday afternoon), I will take about 10-15 minutes to plan out what I will work on for the following week. I will literally "block" out different time slots on Google Calendar and color code them based on the type of work they are (e.g., dark blue for meditation sessions, yellow for classes, gray for meetings, dark green for paid work, red for deadlines). This way, I have a clear idea of what I need to do for that day. This planning also ensures that I finished all the work on time and usually a bit earlier than the deadline. Of course, the schedule can be modified through out the day as I went about it but outlining it ahead of time eliminates some of the time of feeling lost and wondering what I need to do.
+
+The first two years of grad school, I was working almost everyday, which felt like I was always working. This did not work since I felt burnt out every summer break. Then, I decided to keep the weekend free for only doing things with friends and other activities I found relaxing.
+
 ## tools I used
+
+I used Obsidian for note taking as it is great for linking notes and ideas. I also use Google Keep a lot for taking quick notes of the ideas I have.
 
 ## what to do with a PhD and different ways of life
 
