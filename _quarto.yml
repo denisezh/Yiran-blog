@@ -19,8 +19,8 @@ website:
 format:
   html:
     theme:
-      dark: cyborg
       light: morph
+      dark: cyborg
     css: styles.css
     fontsize: 1.1em
     linestretch: 1.7

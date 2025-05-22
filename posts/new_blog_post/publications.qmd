@@ -1,6 +1,6 @@
 ---
 title: "publications"
-date: '2025-04-27'
+date: '2025-05-22'
 categories: ['writing']
 description: 'In this post, I list my research work and op-ed essays'
 execute: 
@@ -13,6 +13,8 @@ editor_options:
 # publications and op-ed
 
 ## 2025
+
+[The shrinking giant: China’s youth in a graying nation](https://1990institute.salsalabs.org/1990newsletter_vol5_issue5)
 
 [Not just someone’s daughter, wife, or mother](https://1990institute.salsalabs.org/1990newsletter_vol5_issue3)
 
