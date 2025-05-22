@@ -1,6 +1,6 @@
 ---
 title: "藏語 Tibetan Studies"
-date: '2025-05-03'
+date: '2025-05-22'
 categories: ['Tibetan']
 description: 'In this post, I will document how I learn Tibetan'
 execute: 
