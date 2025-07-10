@@ -10,7 +10,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## 語法 | Tibetan grammar
+## 語法 \| Tibetan grammar
 
 [ལེགས་བཤད་ལྗོན་དབང༌། The Essence of Thönmi’s Masterpiece 'The Thirty Verses'](https://tibetan101.com/the-thirty-verses/)
 
@@ -18,13 +18,10 @@ editor_options:
 
 [The Thirty Verses - audio 音頻](https://youtu.be/cPTbI5SgwUQ?si=8napumCEPmkQBA5I)
 
-
 ## 學習表 study schedule
 
 ### week 1
 
-1) [數字1-100 number review](https://youtu.be/h2PcSF57E3k?si=u8fwi0MInfbvTn8e)
-2) [Sentence Building with Connected Nouns and Verbs](https://youtu.be/1Bc9IH7X2mA?si=xXj8RwulatEG2tCS)
-3) [ལ་དོན། (ladon) preposition](https://www.youtube.com/watch?v=bNLMpm0MRmY&list=PLC4HKzZ26ub9xAlOH5e-g8PNnckIxOpKD&index=20&ab_channel=LEARNING%3ABasicReadingTibetanLanguage)
-
-
+1)  [數字1-100 number review](https://youtu.be/h2PcSF57E3k?si=u8fwi0MInfbvTn8e)
+2)  [Sentence Building with Connected Nouns and Verbs](https://youtu.be/1Bc9IH7X2mA?si=xXj8RwulatEG2tCS)
+3)  [ལ་དོན། (ladon) preposition](https://www.youtube.com/watch?v=bNLMpm0MRmY&list=PLC4HKzZ26ub9xAlOH5e-g8PNnckIxOpKD&index=20&ab_channel=LEARNING%3ABasicReadingTibetanLanguage)

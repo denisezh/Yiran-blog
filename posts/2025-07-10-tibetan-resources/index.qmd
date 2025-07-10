@@ -10,7 +10,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## dictionaries and translation tools | 字典和翻译工具 
+## dictionaries and translation tools \| 字典和翻译工具
 
 [how to configure mobiles and computer for Tibetan fonts](https://digitaltibetan.github.io/DigitalTibetan/docs/devices_tibetan.html)
 
@@ -22,21 +22,12 @@ Claude (AI tool): When there is a longer Tibetan text I want to translate, I wou
 
 [Tibetan classical and colloquial translation dictionary](https://www.bum-pa-mi-rtag-pa.site/dictionary/#/)
 
-[Concise Tibetan Sanskrit English Chinese Buddhist Dictionary
-藏梵英中簡明佛教辭典](https://www.gosokrinpoche.com/tibetan-english-chinese-concise-dictionary/)
+[Concise Tibetan Sanskrit English Chinese Buddhist Dictionary 藏梵英中簡明佛教辭典](https://www.gosokrinpoche.com/tibetan-english-chinese-concise-dictionary/)
 
-
-## Tibetan e-book/textbook | 藏语课本
+## Tibetan e-book/textbook \| 藏语课本
 
 [Esukhia online textbook for beginner to intermediate levels](https://esukhia.online/A0/A0-00.html) - this book was designed to be immersive: reading, writing, listening, and speaking are all covered. I think it is particularly good for beginners to repeatedly listen to pronunciations
 
-
-## Tibetan learning blog | 藏语学习网站 
+## Tibetan learning blog \| 藏语学习网站
 
 [classical Tibetan wiki](https://wiki.learntibetanlanguage.org/)
-
-
-
-
-
-

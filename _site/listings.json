@@ -7,5 +7,16 @@
       "/posts/new_blog_post/tibetan-studying.html",
       "/posts/new_blog_post/publications.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/new_blog_post/tibetan-beginner.html",
+      "/posts/new_blog_post/tibetan-intermediate.html",
+      "/posts/new_blog_post/tibetan-resources.html",
+      "/posts/new_blog_post/publications.html",
+      "/posts/new_blog_post/why-social-psyc.html",
+      "/posts/new_blog_post/how-I-built-this-blog.html"
+    ]
   }
 ]
