@@ -1,0 +1,40 @@
+---
+title: "藏語学习资源 Tibetan studying resources"
+date: '2025-07-10'
+categories: ['Tibetan']
+description: 'This post includes materials and tools I found helpful to study Tibetan'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## dictionaries and translation tools | 字典和翻译工具 
+
+Monlam app or [website](https://monlam.ai/model/mt?source=bo&target=en)
+
+[Tibetan and Himalayan Library Tibetan Translation Tool](https://www.thlib.org/reference/dictionaries/tibetan-dictionary/translate.php)
+
+Claude (AI tool): When there is a longer Tibetan text I want to translate, I would take a screenshot then extract the text (e.g., using Google lens) and then paste the text into Claude to ask for word by word translation
+
+[Concise Tibetan Sanskrit English Chinese Buddhist Dictionary
+藏梵英中簡明佛教辭典](https://www.gosokrinpoche.com/tibetan-english-chinese-concise-dictionary/)
+
+[藏漢字典](http://www.tibetans.cn/hzhyfull.aspx)
+
+
+## Tibetan e-book/textbook | 藏语课本
+
+[Esukhia *audio* textbook from beginner to intermediate levels](https://esukhia.online/textbooks/)
+
+
+## Tibetan learning blog | 藏语学习网站 
+
+[classical Tibetan wiki](https://wiki.learntibetanlanguage.org/)
+
+
+
+
+
+

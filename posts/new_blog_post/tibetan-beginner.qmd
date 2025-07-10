@@ -1,8 +1,8 @@
 ---
-title: "藏語 Tibetan Studies"
-date: '2025-05-22'
+title: "藏語入门初级 Intro/Beginner Tibetan"
+date: '2025-07-10'
 categories: ['Tibetan']
-description: 'In this post, I will document how I learn Tibetan'
+description: 'In this post, I documented how I learn Tibetan in the first month'
 execute: 
   message: false
   warning: false
@@ -14,11 +14,8 @@ editor_options:
 
 今年2025四月開始學習藏語，這裏紀錄我所用到的學習資源和對我來説有用的學習方法。我并不是光靠自學，而是同時有去上課，聼老師的發音和得到糾正是非常重要的。在課下，我會每天發一到三個小時用以下的資源復習并且學習我在課上沒學到的。
 
-每天學習前可以念文殊菩薩心咒求加持。
 
 All the resources listed below can be used by English speakers to learn Tibetan. For some of them, the teachers teach in Chinese, while some teaches in Tibetan or English (marked with asterisk*). I see these resources as supplemental or for self-study in addition attending in-person classes because it is important to see and hear directly how the teachers pronounce each word and get feedback. 
-
-I usually start each learning session by chanting praise to Manjushri.
 
 
 ## 學習資源 | general resources
@@ -27,9 +24,9 @@ I usually start each learning session by chanting praise to Manjushri.
 
 藏英字典 Tibetan - English dictionary 
 
-Monlam app (iphone only) or [website](https://monlamdictionary.com/index.php) (select 3rd option from drop down menu above the search bar for Tibetan to English, 4th option for English to Tibetan
+Monlam app or [website](https://monlam.ai/model/mt?source=bo&target=en)
 
-[THL Tibetan to English Translation Tool](https://www.thlib.org/reference/dictionaries/tibetan-dictionary/translate.php)
+[Tibetan and Himalayan Library Tibetan Translation Tool](https://www.thlib.org/reference/dictionaries/tibetan-dictionary/translate.php)
 
 
 ## 學習表 study schedule
